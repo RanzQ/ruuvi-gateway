@@ -7,7 +7,7 @@ name = "pypi"
 
 [packages]
 ruuvitag-sensor = "*"
-requests = "*"
+google-cloud-firestore = "*"
 
 [requires]
 python_version = "3.5"
