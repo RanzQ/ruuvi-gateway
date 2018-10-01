@@ -1,0 +1,14 @@
+[[source]]
+verify_ssl = true
+url = "https://pypi.org/simple"
+name = "pypi"
+
+[packages]
+ruuvitag-sensor = "*"
+requests = "*"
+
+[requires]
+python_version = "3.5"
+
+[dev-packages]
+pylint = "<2.0.0"
